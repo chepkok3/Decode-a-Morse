@@ -35,13 +35,11 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[Create a git flow]**
-- **[We added a morse code]**
-- **[We created a decode_char method]**
-- **[We created a decode_word method]**
-- **[We created a decode method]**
-- **[We ensured that it is working correctly]**
-
+- **git flow**
+- **morse code**
+- **a decode_char method**
+- **a decode_word method**
+- **a decode method**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,6 +169,6 @@ I would like to appreciate [Microverse](https://www.microverse.org/) for providi
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](MIT.md) licensed.
+This project is [MIT](https://github.com/chepkok3/Decode-a-Morse/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
