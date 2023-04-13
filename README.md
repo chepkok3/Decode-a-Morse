@@ -1,5 +1,3 @@
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -26,16 +24,17 @@
 
 **Decode Morse** is an app used to decode a morse code .
 
-
 ## 🛠 Built With <a name="built-with"></a>
 - Ruby
 
 ### Tech Stack <a name="tech-stack"></a>
 
+<!-- Features -->
+
 ### Key Features <a name="key-features"></a>
 
-- *git flow**
-- **a morse code**
+- **git flow**
+- **morse code**
 - **a decode_char method**
 - **a decode_word method**
 - **a decode method**
@@ -66,7 +65,8 @@ Example command:
 
 ### Setup
 
-- Clone this repository to your desired folder: https://donmark2k.github.io/decode-morse/.git
+- Clone this repository to your desired folder: https://github.com/chepkok3/Decode-a-Morse
+
 - Run bundle install to install the dependencies.
 
 ### Install
@@ -76,7 +76,7 @@ Install this project with:
 -  ubuntu version 22 or higher
 
 ### Usage
-To run the project, execute the following command:
+To run the project, execute the following command: 
 
 - ruby decode.rb
 
@@ -112,11 +112,9 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
 
-
- 👤 **Stanley Kibor**
+👤 **Stanley Kibor**
 
 - GitHub: [@chepkok3](https://github.com/chepkok3)
 - Twitter: [@chepkok3](https://twitter.com/home)
@@ -133,8 +131,7 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- I will add numbers and symbols to the hash table
-
+- Numbers and symbols will be added to the hash table
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,7 +149,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-- Give a ⭐️ if you like this project!
+If you like this project, give it a ⭐️ and let us know what you like in particular.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,7 +157,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to appreciate [Microverse](https://www.microverse.org/) for providing the resources and support.
+We would like to appreciate [Microverse](https://www.microverse.org/) for providing the resources and support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,6 +167,6 @@ I would like to appreciate [Microverse](https://www.microverse.org/) for providi
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](MIT.md) licensed.
+This project is [MIT](https://github.com/chepkok3/Decode-a-Morse/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
