@@ -46,3 +46,4 @@ def decode(phrase)
   end
   trs_phrase
 end
+puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
