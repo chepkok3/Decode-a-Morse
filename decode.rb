@@ -28,7 +28,7 @@ MORSE_CODE = {
 }.freeze
 
 def decode_char(morse_char)
-  @morse_code[morse_char].upcase
+  MORSE_CODE[morse_char].upcase
 end
 
 def decode_word(word)
@@ -46,4 +46,7 @@ def decode(phrase)
   end
   trs_phrase
 end
+puts decode_char('.-')
+puts decode_word('-- -.--')
+puts decode('-- -.--   -. .- -- .')
 puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
