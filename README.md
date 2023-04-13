@@ -20,10 +20,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Decode A Morse  <a name="about-project"></a>
+# 📖 Decode Morse  <a name="about-project"></a>
 
-**Decode A Morse** is an app used to decode a morse code .
-
+**Decode Morse** is an app used to decode a morse code .
 
 ## 🛠 Built With <a name="built-with"></a>
 - Ruby
@@ -33,7 +32,6 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
 
 - **git flow**
 - **morse code**
@@ -48,7 +46,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
@@ -69,6 +66,7 @@ Example command:
 ### Setup
 
 - Clone this repository to your desired folder: https://github.com/chepkok3/Decode-a-Morse
+
 - Run bundle install to install the dependencies.
 
 ### Install
@@ -114,6 +112,7 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
+## 👥 Authors <a name="authors"></a>
 
 👤 **Stanley Kibor**
 
@@ -133,7 +132,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 - Numbers and symbols will be added to the hash table
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,7 +157,7 @@ If you like this project, give it a ⭐️ and let us know what you like in part
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to appreciate [Microverse](https://www.microverse.org/) for providing the resources and the platform for learning.
+We would like to appreciate [Microverse](https://www.microverse.org/) for providing the resources and support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
