@@ -68,7 +68,7 @@ Example command:
 
 ### Setup
 
-- Clone this repository to your desired folder: 
+- Clone this repository to your desired folder: https://github.com/chepkok3/Decode-a-Morse
 - Run bundle install to install the dependencies.
 
 ### Install
@@ -78,7 +78,7 @@ Install this project with:
 -  ubuntu version 22 or higher
 
 ### Usage
-To run the project, execute the following command:
+To run the project, execute the following command: 
 
 - ruby decode.rb
 
